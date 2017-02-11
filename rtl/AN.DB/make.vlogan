@@ -1,0 +1,12 @@
+
+VLOGAN	= vlogan
+VLOGAN_OPT	= -work work -full64
+
+all :		_VCSgd_ZKe7Le_1.db \
+
+
+
+_VCSgd_ZKe7Le_1.db :	gatelib.v 
+		${VLOGAN}  ${VLOGAN_OPT} gatelib.v
+
+

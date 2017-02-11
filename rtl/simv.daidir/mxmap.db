@@ -1,0 +1,3 @@
+WORK . 2 DEFAULT
+VCSWORK ./vcswork 2 -
+DEFAULT . 2 -
